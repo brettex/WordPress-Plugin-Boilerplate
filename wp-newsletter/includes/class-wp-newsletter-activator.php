@@ -20,7 +20,7 @@
  * @subpackage Plugin_Name/includes
  * @author     Your Name <email@example.com>
  */
-class Plugin_Name_Activator {
+class WP_Newsletter_Activator {
 
 	/**
 	 * Short Description. (use period)
